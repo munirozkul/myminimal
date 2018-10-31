@@ -4,7 +4,7 @@ layout: default
 
 # [](#munirozkul)Munir Ozkul
 
-Munir Ozkul is a famous actor in Turkiye.
+Munir Ozkul is a famous actor in Turkey.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
